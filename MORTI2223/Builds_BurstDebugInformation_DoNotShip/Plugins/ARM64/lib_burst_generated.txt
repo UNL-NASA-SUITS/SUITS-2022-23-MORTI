@@ -1,4 +1,4 @@
-Library: C:\Users\prest\OneDrive\Desktop\UNLSUITS2022-23_MORTI\MORTI2223\Temp\StagingArea\Plugins\ARM64\lib_burst_generated
+Library: C:\Users\joejo\Desktop\GitHub\UNLSUITS2022-23_MORTI\MORTI2223\Temp\StagingArea\Plugins\ARM64\lib_burst_generated
 --platform=UWP
 --backend=burst-llvm-14
 --target=ARMV8A_AARCH64
@@ -101,6 +101,7 @@ Library: C:\Users\prest\OneDrive\Desktop\UNLSUITS2022-23_MORTI\MORTI2223\Temp\St
 --compilation-defines=NET_STANDARD_2_1
 --compilation-defines=NETSTANDARD
 --compilation-defines=NETSTANDARD2_1
+--compilation-defines=UNITY_PRO_LICENSE
 --compilation-defines=ENABLE_CUSTOM_RENDER_TEXTURE
 --compilation-defines=ENABLE_DIRECTOR
 --compilation-defines=ENABLE_LOCALIZATION
@@ -162,11 +163,9 @@ Library: C:\Users\prest\OneDrive\Desktop\UNLSUITS2022-23_MORTI\MORTI2223\Temp\St
 --compilation-defines=INPUT_SYSTEM_POSE_VALID
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --compilation-defines=MSFT_OPENXR_1_5_0_OR_NEWER
---linker-options=vs-version=16.11.33328.57
---linker-options=target-sdk-version=10.0.16299.0
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\prest\OneDrive\Desktop\UNLSUITS2022-23_MORTI\MORTI2223\Temp\Burst
---output=C:\Users\prest\OneDrive\Desktop\UNLSUITS2022-23_MORTI\MORTI2223\Temp\StagingArea\Plugins\ARM64\lib_burst_generated
+--temp-folder=C:\Users\joejo\Desktop\GitHub\UNLSUITS2022-23_MORTI\MORTI2223\Temp\Burst
+--output=C:\Users\joejo\Desktop\GitHub\UNLSUITS2022-23_MORTI\MORTI2223\Temp\StagingArea\Plugins\ARM64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 --pdb-search-paths=Temp/ManagedSymbols/
 
