@@ -15,9 +15,9 @@ public class EVAContainer : MonoBehaviour
     [SerializeField]
     bool isPaused;
     [SerializeField]
-    float time;
+    float time = 0f;
     [SerializeField]
-    string timer;
+    string timer = "0";
     [SerializeField]
     string started_at;
     [SerializeField]
